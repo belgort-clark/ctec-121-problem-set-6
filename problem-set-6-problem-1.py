@@ -2,7 +2,7 @@
 # Author: Bruce Elgort
 # problem-set-6-problem-1.py
 
-'''
+"""
 INSTRUCTIONS:
 
 READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
@@ -14,7 +14,7 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 3) Make sure the code runs
 4) Make sure your file is named week_3_problem_1.py
 
-'''
+"""
 
 def main():
     # get the day month and year as numbers

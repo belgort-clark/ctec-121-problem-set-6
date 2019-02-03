@@ -2,7 +2,7 @@
 # Author: Bruce Elgort
 # problem-set-6-problem-6.py
 
-'''
+"""
 INSTRUCTIONS:
 
 READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
@@ -13,7 +13,7 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
    contained the error and tell me what you fixed.
 3) Make sure the code runs
 4) Make sure your file is named week_3_problem_6.py
-'''
+"""
 
 def main :
     print("This program calculates the future value of an investment.")

@@ -2,7 +2,7 @@
 # Author: Bruce Elgort
 # problem-set-6-problem-4.py
 
-'''
+"""
 INSTRUCTIONS:
 
 READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
@@ -13,21 +13,10 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
    contained the error and tell me what you fixed.
 3) Make sure the code runs
 4) Make sure your file is named week_3_problem_4.py
-'''
+"""
 
 """
-An acronym is a word formed by taking the first
-letters of the words in a
-phrase and making a
-word from them. For example, RAM is an acronym
-for “random access memory.” Write a program that
-allows the user to
-type in a phrase and then outputs
-the acronym for that phrase. Note: the
-acronym
-should be all uppercase, even if the words in the
-phrase are not
-capitalized.
+An acronym is a word formed by taking the first letters of the words in a phrase and making a word from them. For example, RAM is an acronym for “random access memory.” Write a program that allows the user to type in a phrase and then outputs the acronym for that phrase. Note: the acronym should be all uppercase, even if the words in the phrase are not capitalized.
 """
 
 def main():
