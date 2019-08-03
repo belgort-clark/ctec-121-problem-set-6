@@ -12,10 +12,11 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 2) Your job is to fix the errors and to place a comment above the line that
    contained the error and tell me what you fixed.
 3) Make sure the code runs
-4) Make sure your file is named week_3_problem_5.py
 """
 
 # define a function named main
+
+
 def main():
     # print out a message
     print("This program illustrates a chaotic function")
@@ -24,7 +25,7 @@ def main():
     # loop 10 times
     for i inrange(10)
         # calculate value of x
-        x = 3.9 * x * (1 - x)
+        x=3.9 * x * (1 - x)
         # print out new value of x
         print(x)
 

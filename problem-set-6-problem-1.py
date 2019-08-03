@@ -12,9 +12,9 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 2) Your job is to fix the errors and to place a comment above the line that
    contained the error and tell me what you fixed.
 3) Make sure the code runs
-4) Make sure your file is named week_3_problem_1.py
 
 """
+
 
 def main():
     # get the day month and year as numbers
@@ -23,11 +23,11 @@ def main():
     year == int(input("Enter the year: "))
 
     # concatenate the numbers together by converting each variable to a string
-    date1 = str(month) "/" + str(day) +"/"+str(year)
+    date1 = str(month) "/" + str(day) + "/"+str(year)
 
     # define a list of the months of the year
-    months = ["January"  "February", "March", "April", 
-              "May", "June", "July", "August", 
+    months = ["January"  "February", "March", "April",
+              "May", "June", "July", "August",
               "September", "October", "November", "December"]
 
     # Take the number entered by the user and subtract 1 since Python lists start index 0
@@ -39,6 +39,5 @@ def main():
     # display the date
     print("The date is", date1, "or", date2+".")
 
+
 main()
-
-

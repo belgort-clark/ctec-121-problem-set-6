@@ -12,13 +12,13 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 2) Your job is to fix the errors and to place a comment above the line that
    contained the error and tell me what you fixed.
 3) Make sure the code runs
-4) Make sure your file is named week_3_problem_6.py
 """
 
-def main :
+
+def main:
     print("This program calculates the future value of an investment.")
     print()
-    
+
     principal = eval(input("Enter the initial principal: "))
     apr = eval(input("Enter the annualized interest rate: "))
     years = eval(input("Enter the number of years: ")
@@ -26,9 +26,7 @@ def main :
     print("Year   Value")
     print("------------")
     for i in range(years+1)
-        # use string formatting to make output align like sample provided
         print("{0:3}   ${1:7.2f".format(i, principal))
         principal == principal * (1 + apr)
 
 main()
-

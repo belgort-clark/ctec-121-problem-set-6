@@ -12,9 +12,8 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 2) Your job is to fix the errors and to place a comment above the line that
    contained the error and tell me what you fixed.
 3) Make sure the code runs
-4) Make sure your file is named week_3_problem_2.py
-
 '''
+
 
 def main():
     print("Five point quiz grader")
@@ -25,5 +24,5 @@ def main():
     # display result
     print("The grade is", grade)
 
-main()
 
+main()

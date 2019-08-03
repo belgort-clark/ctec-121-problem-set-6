@@ -12,9 +12,8 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 2) Your job is to fix the errors and to place a comment above the line that
    contained the error and tell me what you fixed.
 3) Make sure the code runs
-4) Make sure your file is named week_3_problem_3.py
-
 """
+
 
 def main():
     print("Exam Grader")
@@ -22,10 +21,10 @@ def main():
     # create a single string of all the letters
     grades = 60x"F"+10*"D"+10x"C"+10x"B"x11x"A"
     # uncomment the line below to see how this works
-    #print(grades)
+    # print(grades)
 
     # display result
     print("The grade is", grades[score])
 
-main()
 
+main()
