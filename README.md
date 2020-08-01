@@ -4,13 +4,13 @@ This repository contains all of files you need to complete Problem Set 6.
 
 This repository contains 7 files:
 
-- problem-set-6-problem-1.py - This is problem 1
-- problem-set-6-problem-2.py - This is problem 2
-- problem-set-6-problem-3.py - This is problem 3
-- problem-set-6-problem-4.py - This is problem 4
-- problem-set-6-problem-5.py - This is problem 5
-- problem-set-6-problem-6.py - This is problem 6
-- README.md - That's the file you are currently reading
+- [problem-set-6-problem-1.py](problem-set-6-problem-1.py) - This is problem 1
+- [problem-set-6-problem-2.py](problem-set-6-problem-2.py) - This is problem 2
+- [problem-set-6-problem-3.py](problem-set-6-problem-3.py) - This is problem 3
+- [problem-set-6-problem-4.py](problem-set-6-problem-4.py) - This is problem 4
+- [problem-set-6-problem-5.py](problem-set-6-problem-5.py) - This is problem 5
+- [problem-set-6-problem-6.py](problem-set-6-problem-6.py) - This is problem 6
+- [README.md](README.md) - That's the file you are currently reading
 
 ## Assignment Details
 

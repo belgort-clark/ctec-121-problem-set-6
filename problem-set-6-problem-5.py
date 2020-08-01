@@ -11,7 +11,8 @@ READ ALL OF THE INSTRUCTIONS BEFORE YOU START WORKING ON THE CODE
 1) The code below contains 3 errors.
 2) Your job is to fix the errors and to place a comment above the line that
    contained the error and tell me what you fixed.
-3) Make sure the code runs
+3) Make sure the code runs.
+4) Re-read steps 1 - 3.
 """
 
 # define a function named main
